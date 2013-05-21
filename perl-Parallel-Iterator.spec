@@ -3,7 +3,7 @@
 
 Name:		perl-%{realname}
 Version:	1.00
-Release:	5
+Release:	6
 License:	GPL or Artistic
 Group:		Development/Perl
 Summary:	Simple parallel execution
