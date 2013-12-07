@@ -3,7 +3,7 @@
 Summary:	Simple parallel execution
 Name:		perl-%{modname}
 Version:	1.00
-Release:	9
+Release:	10
 License:	GPLv2 or Artistic
 Group:		Development/Perl
 Url:		http://search.cpan.org/dist/%{modname}
